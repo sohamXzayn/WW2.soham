@@ -64,6 +64,7 @@ body{
 
   #preone{
     font-size: 13px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   }
 
 .img-txt2 {
@@ -83,3 +84,21 @@ body{
 .img-txt4 img {
     margin-right: 10px; /* adjust as needed */
   }
+
+
+#pretwo{
+  font-size: 13px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.img-txt6 {
+  display: flex;
+  align-items: top right;
+}
+
+.img-txt6 img {
+  margin-right: 10px; /* adjust as needed */
+ 
+}
+
