@@ -1,0 +1,50 @@
+body{
+    background-color: bisque;
+}
+ 
+
+
+#headXone{
+    text-align: center;
+}
+
+
+
+.para i {
+    color: #bb7a7a;
+}
+
+
+.para {
+    font-size: 20px;
+}
+
+.image-with-text {
+    display: flex;
+    align-items: top right;
+  }
+ 
+.image-with-text img {
+    margin-right: 10px; /* adjust as needed */
+  }
+
+#bold{
+    font-size: 20px;
+}
+
+#htwo{
+    text-align: center;
+}
+
+#hr{
+    color: black;
+    width: 500px;    
+}
+
+#aside{
+    text-align: center;
+}
+
+.para u {
+    background-color: rgba(0, 255, 255, 0.172);
+}
