@@ -8,6 +8,9 @@ body{
     text-align: center;
 }
 
+#headXtwo{
+    text-align: center;
+}
 
 
 .para i {
@@ -48,3 +51,35 @@ body{
 .para u {
     background-color: rgba(0, 255, 255, 0.172);
 }
+
+
+.img-txt {
+    display: flex;
+    align-items: top left;
+  }
+ 
+.img-txt img {
+    margin-left: 10px; /* adjust as needed */
+  }
+
+  #preone{
+    font-size: 13px;
+  }
+
+.img-txt2 {
+    display: flex;
+    align-items: top right;
+  }
+ 
+.img-txt2 img {
+    margin-right: 10px; /* adjust as needed */
+  }
+
+  .img-txt4 {
+    display: flex;
+    align-items: top right;
+  }
+ 
+.img-txt4 img {
+    margin-right: 10px; /* adjust as needed */
+  }
