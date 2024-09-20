@@ -65,6 +65,7 @@ body{
   #preone{
     font-size: 13px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: grey;
   }
 
 .img-txt2 {
@@ -89,6 +90,13 @@ body{
 #pretwo{
   font-size: 13px;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: grey;
+}
+
+#prethree{
+  font-size: 13px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: grey;
 }
 
 
@@ -102,3 +110,8 @@ body{
  
 }
 
+#foot{
+  font-size: 20px;
+  font-family: fantasy;
+  color: coral;
+}
