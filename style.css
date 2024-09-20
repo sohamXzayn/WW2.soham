@@ -14,7 +14,7 @@ body{
 
 
 .para i {
-    color: #bb7a7a;
+    color: #9c5252;
 }
 
 
@@ -114,4 +114,5 @@ body{
   font-size: 20px;
   font-family: fantasy;
   color: coral;
+  text-align: center;
 }
